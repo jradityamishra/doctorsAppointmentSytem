@@ -196,10 +196,10 @@ Folder Structure
 **Overlapping Slots**: Ensure doctors don’t add overlapping availability slots (optional for this project).
 **Email Failures**: Use a retry mechanism or queue for email notifications in production.
 ## 📚 Documentation
-**API Examples**: Include sample requests and responses for each endpoint.
-**Screenshots**: Add screenshots of the frontend UI.
-**explained video link**:https://drive.google.com/file/d/1nEjP4RBVhafrCytF8BklvmTNfjcx4O_c/view?usp=sharing
-**Live Demo**: Provide a link to the live demo (if deployed).
+- **API Examples**: Include sample requests and responses for each endpoint.
+- **Screenshots**: Add screenshots of the frontend UI.
+- **explained video link**:https://drive.google.com/file/d/1nEjP4RBVhafrCytF8BklvmTNfjcx4O_c/view?usp=sharing
+- **Live Demo**: Provide a link to the live demo (if deployed).
 ## ⚡ Technologies Used
 **Frontend**: React, Tailwind CSS, Context API/Redux Toolkit.
 **Backend**: Node.js, Express.js, MongoDB, Mongoose.
