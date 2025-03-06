@@ -198,6 +198,7 @@ Folder Structure
 ## 📚 Documentation
 **API Examples**: Include sample requests and responses for each endpoint.
 **Screenshots**: Add screenshots of the frontend UI.
+**explained video link**:https://drive.google.com/file/d/1nEjP4RBVhafrCytF8BklvmTNfjcx4O_c/view?usp=sharing
 **Live Demo**: Provide a link to the live demo (if deployed).
 ## ⚡ Technologies Used
 **Frontend**: React, Tailwind CSS, Context API/Redux Toolkit.
