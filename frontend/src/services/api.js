@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Set base URL
-axios.defaults.baseURL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+axios.defaults.baseURL = process.env.VITE_API_URL;
 
 // API service for doctors
 export const doctorService = {
