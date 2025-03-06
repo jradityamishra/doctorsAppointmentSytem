@@ -201,11 +201,11 @@ Folder Structure
 - **explained video link**:https://drive.google.com/file/d/1nEjP4RBVhafrCytF8BklvmTNfjcx4O_c/view?usp=sharing
 - **Live Demo**: Provide a link to the live demo (if deployed).
 ## ⚡ Technologies Used
-**Frontend**: React, Tailwind CSS, Context API/Redux Toolkit.
-**Backend**: Node.js, Express.js, MongoDB, Mongoose.
-**Authentication**: JWT, bcrypt.
-**Email Notifications**: Nodemailer.
-**Deployment**: Render (backend), Vercel (frontend).
+- **Frontend**: React, Tailwind CSS, Context API/Redux Toolkit.
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose.
+- **Authentication**: JWT, bcrypt.
+- **Email Notifications**: Nodemailer.
+- **Deployment**: Render (backend), Vercel (frontend).
 ## 🚀 Future Improvements
 - Implement recurring availability for doctors.
 - Add patient reviews and ratings for doctors.
